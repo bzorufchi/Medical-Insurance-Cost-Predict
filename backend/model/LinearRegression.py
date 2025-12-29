@@ -256,7 +256,7 @@ print(y_test_pred_loaded[:5])
 import numpy as np
 
 predicted_charges = np.exp(y_test_pred_loaded[:5])
-print(predicted_charges)
+print(predicted_charges) 
 
 
 
